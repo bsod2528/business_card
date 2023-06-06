@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Your Name</string>
+    <string name="role">Role</string>
+    <string name="email">Email ID</string>
+    <string name="phone_number">Your Phone Number</string>
+</resources>
